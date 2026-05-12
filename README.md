@@ -4,12 +4,12 @@ Internship: DecodeLabs – Data Science
 Developer: Habiba Mohamed 
 
 # Project Objective
---The objective of this project was to transform raw retail transaction data into a high-impact visual dashboard. By cleaning messy datasets and applying advanced visualization techniques, I provided the business with a clear view of revenue drivers, consumer behavior, and operational demand.
+--- The objective of this project was to transform raw retail transaction data into a high-impact visual dashboard. By cleaning messy datasets and applying advanced visualization techniques, I provided the business with a clear view of revenue drivers, consumer behavior, and operational demand.
 
 # Technical Implementation
---Data Preprocessing & CleaningImputation Strategy: Handled missing Price Per Unit values using category-based medians to preserve the natural pricing structure of the inventory.
---Math Validation: Programmatically recalculated Total Spent (Price x Quantity) to ensure 100% accuracy across all 12,000+ records.
---Outlier Control: Applied a 99th percentile cap to revenue figures to ensure the final dashboard reflects standard business operations rather than statistical noise.Date ----Standardization: Converted transaction logs into standard datetime objects for accurate time-series analysis.
+---Data Preprocessing & CleaningImputation Strategy: Handled missing Price Per Unit values using category-based medians to preserve the natural pricing structure of the inventory.
+---Math Validation: Programmatically recalculated Total Spent (Price x Quantity) to ensure 100% accuracy across all 12,000+ records.
+---Outlier Control: Applied a 99th percentile cap to revenue figures to ensure the final dashboard reflects standard business operations rather than statistical noise.Date ----Standardization: Converted transaction logs into standard datetime objects for accurate time-series analysis.
 
 CompletedData Cleaning: Handled missing values using category-based median imputation and recalculated totals for mathematical consistency.
 Outlier Management: Identified and capped high-value outliers (99th percentile) to ensure statistical models weren't skewed.
