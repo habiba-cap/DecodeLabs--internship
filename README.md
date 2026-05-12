@@ -39,3 +39,4 @@ Digital Trends: Online shopping shows significant strength, particularly when pa
 
 Growth Trajectory: The Monthly Sales Trend shows consistent upward movement, indicating a healthy and growing customer base.
  Price: Quantity sold has a much higher correlation with revenue than unit price changes.
+![Retail Dashboard](./visualization.png)
